@@ -1,0 +1,15 @@
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\bin\Debug\net7.0\Задача56.exe
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\bin\Debug\net7.0\Задача56.deps.json
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\bin\Debug\net7.0\Задача56.runtimeconfig.json
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\bin\Debug\net7.0\Задача56.dll
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\bin\Debug\net7.0\Задача56.pdb
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\obj\Debug\net7.0\Задача56.csproj.AssemblyReference.cache
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\obj\Debug\net7.0\Задача56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\obj\Debug\net7.0\Задача56.AssemblyInfoInputs.cache
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\obj\Debug\net7.0\Задача56.AssemblyInfo.cs
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\obj\Debug\net7.0\Задача56.csproj.CoreCompileInputs.cache
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\obj\Debug\net7.0\Задача56.dll
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\obj\Debug\net7.0\refint\Задача56.dll
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\obj\Debug\net7.0\Задача56.pdb
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\obj\Debug\net7.0\Задача56.genruntimeconfig.cache
+C:\Users\akordel\Desktop\Seminar8DZ\Задача56\obj\Debug\net7.0\ref\Задача56.dll
